@@ -1,2 +1,0 @@
-Este é um teste para verificar se a palavra Python aparece no arquivo.
-Python é uma linguagem de programação poderosa.

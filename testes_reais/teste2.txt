@@ -1,2 +1,0 @@
-Outro arquivo de teste com algumas ocorrências da palavra Python.
-Python é muito utilizado no desenvolvimento web.
